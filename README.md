@@ -14,7 +14,7 @@ The following files contain the assets necessary to generate a properly formatte
 * [Credits] (#Credits)
 * [License] (#License)
 
-## :laptop: Installation  
+## 💻 Installation  
   
 `npm init`
   
