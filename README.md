@@ -1,6 +1,9 @@
 # readme-gen
 Readme generator HW 4/3/21
 
+![readme gif](https://github.com/xxelegyxx/readme-gen/blob/main/readme-gif.gif)
+![link to full video]()
+
 ## :newspaper: Description 
 The following files contain the assets necessary to generate a properly formatted readme file within javascript using Node.
 
