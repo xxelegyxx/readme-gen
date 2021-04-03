@@ -1,7 +1,7 @@
 # readme-gen
 Readme generator HW 4/3/21
 
-![readme gif](https://github.com/xxelegyxx/readme-gen/blob/main/readme-gif.gif)
+![readme gif](https://github.com/xxelegyxx/readme-gen/blob/main/readme-gif.gif) <br />
 ![link to full video]()
 
 ## :newspaper: Description 
